@@ -1,0 +1,7 @@
+C:\Users\hasan\source\repos\StopwatchApplication\StopwatchApplication\bin\Debug\StopwatchApplication.exe.config
+C:\Users\hasan\source\repos\StopwatchApplication\StopwatchApplication\bin\Debug\StopwatchApplication.exe
+C:\Users\hasan\source\repos\StopwatchApplication\StopwatchApplication\bin\Debug\StopwatchApplication.pdb
+C:\Users\hasan\source\repos\StopwatchApplication\StopwatchApplication\obj\Debug\StopwatchApplication.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\StopwatchApplication\StopwatchApplication\obj\Debug\StopwatchApplication.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\StopwatchApplication\StopwatchApplication\obj\Debug\StopwatchApplication.exe
+C:\Users\hasan\source\repos\StopwatchApplication\StopwatchApplication\obj\Debug\StopwatchApplication.pdb
